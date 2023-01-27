@@ -10,7 +10,7 @@ Welcome to the Landing Page repository! This repository contains the source code
 - [x] Fully responsive design that looks great on any device
 - [x] Animated scrolling navigation 
 - [x] Dynamic nav-bar
-
+[Live Demo] (https://alyqamar.github.io/Landing-Page)
 ## Built With
 * HTML
 * CSS
